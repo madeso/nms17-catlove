@@ -71,7 +71,7 @@ public class TogglePhone : MonoBehaviour {
 
 	float InterpolateFromTarget(float t) {
 		timer += Time.deltaTime / TotalTime;
-		return Mathf.Lerp(from, t, timer);
+		return Mathf.Lerp(from, t, Easings.ExponentialEaseOut(timer));
 	}
 
 	private State GetNextState() {
