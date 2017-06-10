@@ -1,0 +1,157 @@
+fileFormatVersion: 2
+guid: 9f7883038df1645ad94c8d8d3291ab9f
+timeCreated: 1497130735
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Cube12_GroundMat
+    100004: Cube13_WallMat
+    100006: Cube14_RoadMat
+    100008: Cube2_BusStationMat
+    100010: Cube3_BusStationMat
+    100012: Cube3_copy4_BusStationMat
+    100014: Cube3_copy5_BusStationMat
+    100016: Cube3_copy6_BusStationMat
+    100018: Cube3_copy7_BusStationMat
+    100020: Cube8_copy10_GlasMat
+    100022: Cube8_copy11_GlasMat
+    100024: Cube8_copy9_GlasMat
+    100026: Cube8_GlasMat
+    400000: //RootNode
+    400002: Cube12_GroundMat
+    400004: Cube13_WallMat
+    400006: Cube14_RoadMat
+    400008: Cube2_BusStationMat
+    400010: Cube3_BusStationMat
+    400012: Cube3_copy4_BusStationMat
+    400014: Cube3_copy5_BusStationMat
+    400016: Cube3_copy6_BusStationMat
+    400018: Cube3_copy7_BusStationMat
+    400020: Cube8_copy10_GlasMat
+    400022: Cube8_copy11_GlasMat
+    400024: Cube8_copy9_GlasMat
+    400026: Cube8_GlasMat
+    2300000: Cube12_GroundMat
+    2300002: Cube13_WallMat
+    2300004: Cube14_RoadMat
+    2300006: Cube2_BusStationMat
+    2300008: Cube3_BusStationMat
+    2300010: Cube3_copy4_BusStationMat
+    2300012: Cube3_copy5_BusStationMat
+    2300014: Cube3_copy6_BusStationMat
+    2300016: Cube3_copy7_BusStationMat
+    2300018: Cube8_copy10_GlasMat
+    2300020: Cube8_copy11_GlasMat
+    2300022: Cube8_copy9_GlasMat
+    2300024: Cube8_GlasMat
+    3300000: Cube12_GroundMat
+    3300002: Cube13_WallMat
+    3300004: Cube14_RoadMat
+    3300006: Cube2_BusStationMat
+    3300008: Cube3_BusStationMat
+    3300010: Cube3_copy4_BusStationMat
+    3300012: Cube3_copy5_BusStationMat
+    3300014: Cube3_copy6_BusStationMat
+    3300016: Cube3_copy7_BusStationMat
+    3300018: Cube8_copy10_GlasMat
+    3300020: Cube8_copy11_GlasMat
+    3300022: Cube8_copy9_GlasMat
+    3300024: Cube8_GlasMat
+    4300000: Cube12_GroundMat
+    4300002: Cube13_WallMat
+    4300004: Cube14_RoadMat
+    4300006: Cube2_BusStationMat
+    4300008: Cube3_BusStationMat
+    4300010: Cube3_copy4_BusStationMat
+    4300012: Cube3_copy5_BusStationMat
+    4300014: Cube3_copy6_BusStationMat
+    4300016: Cube3_copy7_BusStationMat
+    4300018: Cube8_copy10_GlasMat
+    4300020: Cube8_copy11_GlasMat
+    4300022: Cube8_copy9_GlasMat
+    4300024: Cube8_GlasMat
+    6400000: Cube12_GroundMat
+    6400002: Cube13_WallMat
+    6400004: Cube14_RoadMat
+    6400006: Cube2_BusStationMat
+    6400008: Cube3_BusStationMat
+    6400010: Cube3_copy4_BusStationMat
+    6400012: Cube3_copy5_BusStationMat
+    6400014: Cube3_copy6_BusStationMat
+    6400016: Cube3_copy7_BusStationMat
+    6400018: Cube8_copy10_GlasMat
+    6400020: Cube8_copy11_GlasMat
+    6400022: Cube8_copy9_GlasMat
+    6400024: Cube8_GlasMat
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1.7
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

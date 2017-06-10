@@ -1,0 +1,46 @@
+# Exported from Wings 3D 1.5.4
+newmtl BusStationMat
+Ns 0.0
+d 1.0
+illum 2
+Kd 0.14 0.9066666666666666 0.15333333333333332
+Ka 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+Ke 0.0 0.0 0.0
+
+newmtl GlasMat
+Ns 0.0
+d 0.16666666666666666
+illum 2
+Kd 1.0 1.0 1.0
+Ka 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+Ke 0.0 0.0 0.0
+
+newmtl GroundMat
+Ns 0.0
+d 1.0
+illum 2
+Kd 0.667 0.667 0.667
+Ka 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+Ke 0.0 0.0 0.0
+
+newmtl RoadMat
+Ns 0.0
+d 1.0
+illum 2
+Kd 0.22744 0.22744 0.22744
+Ka 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+Ke 0.0 0.0 0.0
+
+newmtl WallMat
+Ns 0.0
+d 1.0
+illum 2
+Kd 0.76024 0.76024 0.76024
+Ka 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+Ke 0.0 0.0 0.0
+
