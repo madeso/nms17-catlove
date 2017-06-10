@@ -15,6 +15,7 @@ public class Intro : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
+		Root.SetActive(true);
 		foreach(var t in TextFades) {
 			t.color = SetAlpha(0, t.color);
 		}
