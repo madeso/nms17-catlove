@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.EventSystems;
 
 public class TogglePhone : MonoBehaviour {
 	public RectTransform phone;
@@ -21,10 +22,26 @@ public class TogglePhone : MonoBehaviour {
 	// Use this for initialization
 	void Start () {
 	}
+
+	public Vector3 mp3;
+	public Vector2 mp;
+	public bool insideRect;
+
+	bool ToggleAction() {
+		if (Input.GetMouseButtonDown(0))
+		{
+			if (EventSystem.current.IsPointerOverGameObject())
+			{
+				return false;
+			}
+			return true;
+		}
+		return false;
+	}
 	
 	// Update is called once per frame
 	void Update () {
-		if(Input.GetButtonDown("Fire1")) {
+		if(this.ToggleAction()) {
 			state = GetNextState();
 			timer = 0.0f;
 			from = phone.localPosition.y;
