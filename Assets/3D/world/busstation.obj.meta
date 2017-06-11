@@ -19,6 +19,13 @@ ModelImporter:
     100022: Cube8_copy11_GlasMat
     100024: Cube8_copy9_GlasMat
     100026: Cube8_GlasMat
+    100028: Cube15_StreetLamp
+    100030: Cube16_WhiteLineMat
+    100032: Cube16_copy17_WhiteLineMat
+    100034: Cube16_copy18_WhiteLineMat
+    100036: Cube16_copy19_WhiteLineMat
+    100038: Cube16_copy20_WhiteLineMat
+    100040: Cube16_copy21_WhiteLineMat
     400000: //RootNode
     400002: Cube12_GroundMat
     400004: Cube13_WallMat
@@ -33,6 +40,13 @@ ModelImporter:
     400022: Cube8_copy11_GlasMat
     400024: Cube8_copy9_GlasMat
     400026: Cube8_GlasMat
+    400028: Cube15_StreetLamp
+    400030: Cube16_WhiteLineMat
+    400032: Cube16_copy17_WhiteLineMat
+    400034: Cube16_copy18_WhiteLineMat
+    400036: Cube16_copy19_WhiteLineMat
+    400038: Cube16_copy20_WhiteLineMat
+    400040: Cube16_copy21_WhiteLineMat
     2300000: Cube12_GroundMat
     2300002: Cube13_WallMat
     2300004: Cube14_RoadMat
@@ -46,6 +60,13 @@ ModelImporter:
     2300020: Cube8_copy11_GlasMat
     2300022: Cube8_copy9_GlasMat
     2300024: Cube8_GlasMat
+    2300026: Cube15_StreetLamp
+    2300028: Cube16_WhiteLineMat
+    2300030: Cube16_copy17_WhiteLineMat
+    2300032: Cube16_copy18_WhiteLineMat
+    2300034: Cube16_copy19_WhiteLineMat
+    2300036: Cube16_copy20_WhiteLineMat
+    2300038: Cube16_copy21_WhiteLineMat
     3300000: Cube12_GroundMat
     3300002: Cube13_WallMat
     3300004: Cube14_RoadMat
@@ -59,6 +80,13 @@ ModelImporter:
     3300020: Cube8_copy11_GlasMat
     3300022: Cube8_copy9_GlasMat
     3300024: Cube8_GlasMat
+    3300026: Cube15_StreetLamp
+    3300028: Cube16_WhiteLineMat
+    3300030: Cube16_copy17_WhiteLineMat
+    3300032: Cube16_copy18_WhiteLineMat
+    3300034: Cube16_copy19_WhiteLineMat
+    3300036: Cube16_copy20_WhiteLineMat
+    3300038: Cube16_copy21_WhiteLineMat
     4300000: Cube12_GroundMat
     4300002: Cube13_WallMat
     4300004: Cube14_RoadMat
@@ -72,6 +100,13 @@ ModelImporter:
     4300020: Cube8_copy11_GlasMat
     4300022: Cube8_copy9_GlasMat
     4300024: Cube8_GlasMat
+    4300026: Cube15_StreetLamp
+    4300028: Cube16_WhiteLineMat
+    4300030: Cube16_copy17_WhiteLineMat
+    4300032: Cube16_copy18_WhiteLineMat
+    4300034: Cube16_copy19_WhiteLineMat
+    4300036: Cube16_copy20_WhiteLineMat
+    4300038: Cube16_copy21_WhiteLineMat
     6400000: Cube12_GroundMat
     6400002: Cube13_WallMat
     6400004: Cube14_RoadMat
@@ -85,6 +120,13 @@ ModelImporter:
     6400020: Cube8_copy11_GlasMat
     6400022: Cube8_copy9_GlasMat
     6400024: Cube8_GlasMat
+    6400026: Cube15_StreetLamp
+    6400028: Cube16_WhiteLineMat
+    6400030: Cube16_copy17_WhiteLineMat
+    6400032: Cube16_copy18_WhiteLineMat
+    6400034: Cube16_copy19_WhiteLineMat
+    6400036: Cube16_copy20_WhiteLineMat
+    6400038: Cube16_copy21_WhiteLineMat
   materials:
     importMaterials: 1
     materialName: 0
