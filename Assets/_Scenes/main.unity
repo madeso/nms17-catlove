@@ -35,10 +35,10 @@ RenderSettings:
   m_DefaultReflectionMode: 0
   m_DefaultReflectionResolution: 128
   m_ReflectionBounces: 1
-  m_ReflectionIntensity: 0.043
+  m_ReflectionIntensity: 0.326
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.0801919, g: 0.093623765, b: 0.11475641, a: 0.043}
+  m_IndirectSpecularColor: {r: 0.25942197, g: 0.29066098, b: 0.33981016, a: 0.326}
 --- !u!157 &3
 LightmapSettings:
   m_ObjectHideFlags: 0
@@ -834,10 +834,18 @@ MonoBehaviour:
   - {fileID: 21300000, guid: c13b906e373f54f9e888cd25d815afe2, type: 3}
   - {fileID: 21300000, guid: d48ddec9618584157995e04d0cb768a5, type: 3}
   - {fileID: 21300000, guid: 9665bfd29962d40e3ad2acaf9debade8, type: 3}
-  - {fileID: 21300000, guid: b13c4f5a077424ca48334e45a1bfab8a, type: 3}
+  - {fileID: 21300000, guid: 7c9fce67f871e4775919d3297adcc0c1, type: 3}
   - {fileID: 21300000, guid: 2c31a0387f44a4e35a8589d43386cb27, type: 3}
   - {fileID: 21300000, guid: 755df47268243473da26e0bafc359051, type: 3}
   - {fileID: 21300000, guid: 057f163c3ddee40128e44f538bd7cfef, type: 3}
+  - {fileID: 21300000, guid: 2e622d337269d49748588e16f0cbad6f, type: 3}
+  - {fileID: 21300000, guid: 6de86d93e919b4dd29df57f62f903bce, type: 3}
+  - {fileID: 21300000, guid: 076eb8605ad7c476b8eba83a8a0625ae, type: 3}
+  - {fileID: 21300000, guid: c4a357fdd5fd546cdb725359df4d9b30, type: 3}
+  - {fileID: 21300000, guid: 001e91c6219664d16bb72d2237e981fe, type: 3}
+  - {fileID: 21300000, guid: f54c19e95be554581aa65121ac5e6d5d, type: 3}
+  - {fileID: 21300000, guid: 85f8708bae3da494cbe3d73b4c7ee9e2, type: 3}
+  - {fileID: 21300000, guid: 451b988e804bb41bdb2d52fd15ea7cb9, type: 3}
 --- !u!114 &450134324
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2193,7 +2201,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   phone: {fileID: 450134320}
-  Distance: -440
+  Distance: -500
   TotalTime: 0.5
   timer: 0
   from: 0

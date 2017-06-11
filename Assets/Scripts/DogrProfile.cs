@@ -13,9 +13,15 @@ public class DogrProfile : MonoBehaviour {
 
 	public Sprite[] Images;
 	Tracery.Grammar grammar;
+	int lastindex = -1;
 
 	public void GenerateNewProfile() {
-		var sprite = this.Images[Random.Range(0, this.Images.Length)];
+		int index;
+		do {
+			index = Random.Range(0, this.Images.Length);
+		} while(index == lastindex);
+		lastindex = index;
+		var sprite = this.Images[index];
 		var title = this.grammar.Flatten("#title#");
 		var desc = this.grammar.Flatten("#desc#");
 
