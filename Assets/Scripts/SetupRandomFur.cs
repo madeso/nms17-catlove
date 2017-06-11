@@ -30,6 +30,8 @@ public class SetupRandomFur : MonoBehaviour {
 		// print("hello");
 		var newmat = this.CatMaterials[ Random.Range(0, this.CatMaterials.Length) ];
 		ReplaceMaterial(this, "CatMat", newmat);
+		var s = Random.Range(0.8f, 1.4f);
+		this.transform.localScale = new Vector3(s, s, s);
 	}
 	
 	// Update is called once per frame
