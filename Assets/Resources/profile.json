@@ -91,19 +91,26 @@
 	"fb": ["fb", "facebook", "FB", "kik", "messenger", "MSN", "whatsapp"],
 	"prank": ["prank", "trick"],
 	"Whatis": ["What is", "Wuits", "What's", "Watt s", "Wut iz"],
+	"meant":["meant", "wanted", "was going #to#"],
+	"sorry":["sry", "sorry", "sory"],
+	"smiley":[":)", "(:", ";)", ":D", "x)", ":/", ":-)", ":("],
+	"i": ["I", "this doggo", "i", "dis dawg", "diz hawt dawg"],
 	"okmessage": [
-		"Haha, sorry, I meant #to# dislike #you# :)",
-		"I must have been #drunk# when I liked #you#. Sorry.",
-		"Huh? #Whatis# this. Did my #friends# #prank# me again?"
+		"Haha, #sorry#, #i# #meant# #to# dislike #you# #smiley#",
+		"#sorry#, #i# #meant# #to# dislike #you#. Stupid app.",
+		"#i# #meant# #to# dislike #you# #smiley#",
+		"#i# must have been #drunk# when I liked #you#. Sorry.",
+		"Huh? #Whatis# this. Did my #friends# #prank# me again#qm#"
 	],
 	"dirty": ["", "sexy", "sexi", "dirty"],
-	"time": ["tonite", "#to#night", "#to# night", "nwo", "now", "NOW"],
+	"time": ["tonite", "#to#night", "#to# night", "nwo", "now", "NOW", "NOW!!!"],
+	"qm":["?", "???", "", "?!?"],
 	"badmessage": [
-		"I want #to# hump #your# leg #time#, #are# #you# ready?",
-		"My #sausage# is big, can #you# handle it #cat#?",
-		"My #ex# never liked my #sausage#, do #you#?",
+		"#i# want #to# hump #your# leg #time#, #are# #you# ready#qm#",
+		"My #sausage# is big, can #you# handle it #cat# #qm#",
+		"My #ex# never liked my #sausage#, do #you# #qm#",
 		"#cam# #pls#",
-		"Do #you# have #cam#?", 
-		"I want #to# send you #dirty# #pics#. Please add me on #fb#."
+		"Do #you# have #cam##qm#", 
+		"#i# want #to# send you #dirty# #pics#. Please add me on #fb#."
 	]
 }
