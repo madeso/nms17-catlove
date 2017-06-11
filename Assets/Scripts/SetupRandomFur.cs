@@ -18,7 +18,7 @@ public class SetupRandomFur : MonoBehaviour {
 				// print(n);
 				// print(mn);
 				if( n.StartsWith(mn) ) {
-					print("changing mat");
+					// print("changing mat");
 					// rend.materials[i] = newmat;
 					rend.material = newmat;
 				}
