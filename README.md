@@ -1,2 +1,5 @@
 # nms17-catlove
-tinder for cats
+
+tinder(DOG-r) for cats
+
+rated R for dogs
